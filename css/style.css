@@ -74,21 +74,25 @@ ul li{
 	padding-bottom: 50px;
 	color: black;
 	float: center;
-	font-size: 18px;
+	font-size: 16px;
 	background-color:white;
-	font-family: sans-serif;
+	color: #747474;
+    margin: auto auto 50px auto;
+
 }
 
 #poja h2{
 	font-size: 40px;
 	color: darkcyan;
 	font-weight: bold;
+	
 }
 
 .btn {
 	margin-top: 20px;
 	margin-bottom: 30px;
 	size:60px;
+	
 	
 }
 
@@ -106,7 +110,7 @@ ul li{
 	border-radius: 100%;
     float: center;
     padding-top: 30px;
-    margin-left:;
+   
 }
 
 .row{
@@ -116,7 +120,7 @@ ul li{
 
 .col h2{
 	float: left;
-	margin-left:100px ;
+	margin-left:50px ;
 	}
 
 /*------------skills------------*/
@@ -124,12 +128,12 @@ ul li{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	width: 90%;
+	width: 100%;
 	margin: auto auto 50px auto;
 }
 
 .skill-text{
-	width: 400px;
+	width: 300px;
 }
 
 .skill-img{
@@ -143,14 +147,16 @@ ul li{
 	width: 100%;
 	height: 100%;
 	object-fit: contain;
+	
 }
+
 
 
 .skill-heading h2{
 	color:darkcyan;
-	font-size: 5rem;
-	margin: 0px;
-	font-weight: 700;
+	font-size: 40px;
+	margin-left: 15px;
+	font-weight: bold;
 	padding-top: 100px;
 
 
@@ -204,17 +210,19 @@ ul li{
 
 .fa-js-square{
 	color:#f98231;
+	
 }
 /*-------aboutus------*/
 
 #tara{
-  padding-top: 50px;
+  
 	padding-bottom: 50px;
-	color: black;
 	float: center;
-	font-size: 18px;
 	background-color:white;
-	font-family: sans-serif;
+	color: #747474;
+	font-size: 16px;
+	padding-top: 50px;
+
 }
 
 #tara h2{
@@ -228,6 +236,7 @@ ul li{
 	padding-top: 20px;
 	padding-bottom: 30px;
 	size: 60px;
+
 	
 }
 
@@ -237,8 +246,7 @@ ul li{
 	padding-top: 20px;
 	text-align: justify;
 
-
-}
+	}
 
 .skills-bar p{
 	margin-bottom: 6px;
@@ -343,9 +351,9 @@ ul li{
 
 
 #services p{
-    font-size: 18px;
+    font-size: 16px;
     margin-top: 10px;
-    font-family: sans-serif;
+    
     text-align: center;
 }
 
@@ -384,13 +392,13 @@ ul li{
 }
 
 .contact .content p{
-	color:;
-	font-size: 18px;
-	font-family: sans-serif;
+
+	color: #747474;
+	font-size: 16px;
 }
 
 .text p{
-	color: black;
+	color: #747474;
 }
 
 .text h3{
